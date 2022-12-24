@@ -1,4 +1,6 @@
 # Breast-cancer-classification
+In this project, we use the Keras deep learning library to train a Convolutional Neural Network for breast cancer classification.
+
 Breast cancer classification using Deep Learning
 The dataset we are using for today’s post is for Invasive Ductal Carcinoma (IDC), the most common of all breast cancer available at: https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images 
 
